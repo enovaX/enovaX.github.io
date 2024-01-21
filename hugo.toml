@@ -1,9 +1,9 @@
-baseURL = 'https://raux.github.io/'
+baseURL = 'https://enovax.github.io/'
 languageCode = 'en-us'
 
 # website title
 # 网站标题
-title = 'Associate Professor at NAIST'
+title = 'eNovaX - Empower Solutions'
 # theme
 # 主题
 theme = "NewBee"
@@ -24,8 +24,8 @@ summaryLength = 50
 hasCJKLanguage = false
 
 [author]
-    name = "Raula Gaikovina Kula"
-    description = "Software Engineering Researcher"
+    name = "Kuga-Man"
+    description = "Tech Lead"
     # profile photo of author in author card
     # 作者头像
     image = "https://conf.researchr.org/getProfileImage/raulakula/9053f112-3e13-4b67-8c75-d8e7131c59db/avatar.jpg"
@@ -52,11 +52,11 @@ hasCJKLanguage = false
         # top image in home page, note that the "/" in path is necessary, the same applies below
         homeTopImg = "/images/home.jpg"
         # title in home top image, support Markdown
-        homeTitle = "Raula Gaikovina Kula"
+        homeTitle = "eNovaX"
         # font size(px)
         homeTitleFontSize = 40
         # content in home top image, support Markdown
-        homeContent = "Empirical Studies on Humans in Software Ecosystems and their Technical Competencies"
+        homeContent = "Empower Global Technology into Papua New Guinea"
         # font size(px)
         homeContentFontSize = 20
 
