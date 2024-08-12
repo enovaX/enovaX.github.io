@@ -3,7 +3,7 @@ languageCode = 'en-us'
 
 # website title
 # 网站标题
-title = 'This is eNova-X'
+title = 'Localize Your Digital Tech Potential Now'
 # theme
 # 主题
 theme = "NewBee"
@@ -24,7 +24,7 @@ summaryLength = 50
 hasCJKLanguage = false
 
 [author]
-    name = "Kuga-Man"
+    name = "eNova-X"
     description = "Tech Lead"
     # profile photo of author in author card
     # 作者头像
@@ -52,11 +52,11 @@ hasCJKLanguage = false
         # top image in home page, note that the "/" in path is necessary, the same applies below
         homeTopImg = "/images/home.jpg"
         # title in home top image, support Markdown
-        homeTitle = "eNovaX"
+        homeTitle = "eNova-X"
         # font size(px)
         homeTitleFontSize = 40
         # content in home top image, support Markdown
-        homeContent = "Localising Global Software Tech into Corporate Papua New Guinea"
+        homeContent = "Localise your Digital Tech for Papua New Guinea"
         # font size(px)
         homeContentFontSize = 20
 
@@ -161,14 +161,14 @@ hasCJKLanguage = false
     # 作者卡片社交链接，最多6个
     [[menus.social]]
         name = "GitHub"
-        url = "https://github.com/raux"
+        url = "https://github.com/enovaX/enovaX.github.io"
         pre = "<i class='fa fa-github'></i>"
         weight = 1
-    [[menus.social]]
-        name = "YouTube"
-        url = "https://www.youtube.com/channel/UCR5uh7dGGp6wRP2O4e7NqJw"
-        pre = "<i class='fa fa-youtube'></i>"
-        weight = 2
+    # [[menus.social]]
+    #     name = "YouTube"
+    #     url = "https://www.youtube.com/channel/UCR5uh7dGGp6wRP2O4e7NqJw"
+    #     pre = "<i class='fa fa-youtube'></i>"
+    #     weight = 2
 
     # sponsor, maxum 3
     # 赞赏，最多支持3个
