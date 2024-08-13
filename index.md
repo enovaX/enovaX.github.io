@@ -1,5 +1,6 @@
 
-<img src="img/logoEnovax.jpg" alt="hi" width="100%" height="50%" class="inline"/>
+<img src="img/logoEnovax.jpg" alt="hi" width="120%" height="50%" class="inline"/>
+
 # eNova-X
 
 We specialise in providing comprehensive coding workshops and resources for educators, helping them integrate computational thinking into their curriculum seamlessly.
