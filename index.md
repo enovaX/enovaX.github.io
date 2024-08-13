@@ -2,18 +2,20 @@
 <img src="img/logoEnovax.jpg" alt="hi" width="100%" height="50%" class="inline"/>
 # eNova-X
 
+We specialise in providing comprehensive coding workshops and resources for educators, helping them integrate computational thinking into their curriculum seamlessly.
 
-# 
+## Our Service
 
+We offer workhops, Hackathons, seminars and run program.
 
 ## About
 
-## Call for Contributions
+We are a company engaged in educational consulting, dedicating to empowering the local teachers and students with coding skills. Our mission is integrity, safety and family. 
 
-## Panel Discussions
+## Contact Us
 
-## Organizing Team
+**Whatsapp** - +675 70235478 / +675 76830957
 
-## Venue
+**Email** - operations.enova@gmail.com
 
-## Program
+**Facebook** - @enovaX solutions 
