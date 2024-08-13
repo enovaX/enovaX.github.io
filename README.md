@@ -1,5 +1,2 @@
-# eNovaX Website
+# This is the Website for Wired Workshop
 
-This is my website for enovax.
-
-I am testing the new PR checking tool for JS
