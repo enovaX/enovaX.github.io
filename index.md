@@ -1,5 +1,5 @@
 
-<img src="img/logoEnovax.jpg" alt="hi" width="50%" height="50%" class="inline"/>
+<img src="img/logoEnovax.jpg" alt="hi" width="100%" height="50%" class="inline"/>
 # eNova-X
 
 
